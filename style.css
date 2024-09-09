@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-top: 20px;
+    /* display: inline-block; */
+}
+
+.parent{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content:start;
+}
+
+.parent1{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    /* display: flex; */
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content: start;
+}
+
+.parent3{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content: start;
+}
+
+.parent2{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.madina{
+    display: flex;
+    gap: 70px;
+
+}
+
+.parent4{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content:start;
+   margin-top: 20px;
+}
+
+
+.parent5{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content:right;
+   margin-top: 20px;
+}
+
+
+.parent6{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content:center;
+ margin-top: 20px;
+}
+
+.parent7{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content: space-between  ;
+   margin-top: 20px;
+}
+
+.parent8{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(134, 0, 134);
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    align-items: start;
+    justify-content: space-between  ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .madina{
+    display: flex;
+    height: 700px;
+    gap: 30px;
+    justify-content:right;  
+    /*   chapdan o'nga qarab  */
+    /* align-items:flex-start;    */
+    /*   tepadan pastga qarab  */
+/* }  */
+
+
+
